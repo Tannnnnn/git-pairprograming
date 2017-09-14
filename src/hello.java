@@ -8,10 +8,14 @@ public class hello {
 		System.out.print("Enter Number to check Odd or Even Number : ");
 		int num = in.nextInt();
 		
-		
-		if()
+		isEven isEven = new isEven() ;
+		if(isEven.isEven(num))
 		{
-			
+			System.out.println("Number "+num+ " is Even.");
+		}
+		else
+		{
+			System.out.println("Number "+num+ " is Odd.");
 		}
 		
 	}
