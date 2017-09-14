@@ -6,6 +6,7 @@ public class hello {
 		System.out.println("Hello Kuyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy");
 		System.out.println("Hello tan");
 		System.out.println("Fuck you bro");
+		System.out.print("เอ�?ย");
 	}
 
 }
