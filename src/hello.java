@@ -18,6 +18,7 @@ public class hello {
 			System.out.println("Number "+num+ " is Odd.");
 		}
 		
+		
 	}
 
 }
