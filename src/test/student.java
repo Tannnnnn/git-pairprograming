@@ -19,7 +19,7 @@ public class student {
 		}
 		else
 		{
-			System.out.print(score);
+			System.out.print("ok");
 		}
 		
 	}
